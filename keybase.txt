@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/acrlewis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://acrlewis.github.io
+  * I am acrlewis (https://keybase.io/acrlewis) on keybase.
+  * I have a public key with fingerprint ADFA 75B7 66F8 21A2 7497  7426 C452 D643 0E7D B3E9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d8ca8cf1277ffdd3ab65b7bffcb3b1136ed187afbeb8428bfdf849455c8609800a",
+      "fingerprint": "adfa75b766f821a274977426c452d6430e7db3e9",
+      "host": "keybase.io",
+      "key_id": "c452d6430e7db3e9",
+      "kid": "0101a060c7ebe89e435f6a7814a725c18010dddbdf778dd4967043a068351721409e0a",
+      "uid": "3ef2bdecf26391b6f45b0a84b8f60f19",
+      "username": "acrlewis"
+    },
+    "merkle_root": {
+      "ctime": 1550524799,
+      "hash_meta": "479e6620622347a76e81ae4d0d1c86637f9d392a45c82bcf164ec10d939fb703",
+      "seqno": 4787901
+    },
+    "revoke": {
+      "sig_ids": [
+        "ae72dce2c1ea5e00e4571e1424feb50a90a3b227f13e7b34878103cd7cd662ff0f"
+      ]
+    },
+    "service": {
+      "hostname": "acrlewis.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550524801,
+  "expire_in": 157680000,
+  "prev": "3572c77cc7cb0b0ef97b0c7a263b57a4f77d387069acfead00c1a7e478cf4dcf",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMQGAnicbVN7bBRFHL4qz5ZKwVLEBpTlkQoVZ3dnd3YPChQIhIgBKyE8Wo+ZnZl2
+e+3dcXt3WEsrQlQagsCVGhWUt7U8tKZoCkIjtBCgpmIbaJTaBCwUrATQAJVHcK5K
+jMa/Njvz+77f9/u+3zQkPu6Kj2vIOjf9iZKaq3GNx1aEXdnekW8WS8RPiyR3seRl
+PR9WQJkT8nhtKrklICuAGhY2LC4rCHFOqYqJrhFEOLeISmRZ1RmVDYQ5YcSAikE4
+5QY0oaZZhg5MAwAspUvc9uWyYCBo+0KCFlOOkSDRdW4oMlYQNBGCim5BTaE6VAFD
+lKjMFMA8vxNDCHEEO2yC7Rdn4sfTI+9/6h/pBjIGOrAQI8wwGVQ1rmNkyBAjRbNk
+QxRQSgnlCBmUQlNHAKoCYaiajBQZApP16A730KmMK4Qyiyu6aspE51AjABuQGFwH
+XI71DTss6MOFLDadFSxgy21HKkmXClnQW8A8Qb8/FDPXCtmxElnTgKZAZJpiQOzk
+eQpZCAukOGG6rgBdUVSIMNKZIWMGKaCyMFNXETepaioYCm8VIjLRIbPEJKZqcoKA
+KnQ4bJnPL7khMpAJZKEgyCJ+L4s1d+xcYZsjuZdImCGFWkyxZIY1BgCDGpKZDBXI
+GdEANgFWiaIgLqsMERUawjqgWhRZVOjjHHAppyTWLBixrR7yWE7/mX9Crh3KC5O/
+MgsE/SG/5S8Q93mhUMBxx9wJFQVigOWMeP6m8hDbR8WuCESEBR3b7xNuicp/Gyfi
+S5fYawE7yDx2rEJDulg0AGJ9WCSWmIYUCyHLQhYBBDBuIiK2AYsAiYYwFLlT1UBA
+N7HFGaYAWDJGTNhmcUgt/o+TqsgohHMFp/DPh0PhIJNKjh3N7uWKi3f16f1Y7BG5
+4vsnPXpae35Nch16XR7YOjf54Ocr5YRlkbc7Slbdu3M8YfyM1JqsYS84z86cdD1x
+f2NNTue+sVUv00qnvqboi9YBly99f/ZMWTTQb8e67qUdZzt37Q7EHW4+rLmmbTtV
+tnfCekgrN3ZO72x+Iyu8fleTPznx6rqTbb+37bzEO6OVDWc+sDNOjNObtsxJz8x7
+8cnU0SPWbHvw3unKhe1P7UCHT/RvSrl7oevB8Mu98mTfkE3l6qfVCVOfqy1sGF2l
+j0zeosYtqEj4xHRPjDbfHxOcsjGd/DJta3TQSxveGrg7KVrx07ADCxavWJHfvmz0
+082Z5HZ2y7ARp2+/+9vauvIpmVXzPA8j7jmusRnR3l5326yvNqSVl3546yLYW9sC
+mornHty8ykvPX/3ys8nnl6aX3q4fU7S58eD710pTR8GP7lQMv1i3KbluPqzM75cf
+fj7pUHSi+3Kf67PDE0NtN28Z9d3xw2d+s/LUnsFl+wqXtuRc2ZRxIa3XttXT09o7
+jko7N7QqP98pdYbm6AOObDy969WPF5be3/Pt9r3Vs6pmhM9Nmteeuaj8bm3HySNZ
+Nw5cQdU58+81pnSlga8bZ/sWp6QO2WmXZzVN3Xz2/IVBWWri8fyulD/GL87+EZ8b
+9V3fH2puVDxTcaJ48P2b3kjG9muvzOrdUPbOUN7Vd1Rb17TuvvVr69ZN7h738KhS
+NHBR6+r9W5dU1+5rLmm5EShMYn8C5p8J3w==
+=08rZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acrlewis
+
+==================================================================
+
