@@ -31,10 +31,12 @@ Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be ins
 ```
 gem install jekyll bundler
 ```
-3. Change into your new directory
+3. Change into your new directory and install gems*
 ```
 cd personal-website
+bundle install
 ```
+*On Mac OSX Mojave, may need to follow the instructions [here](https://github.com/ffi/ffi/issues/651#issuecomment-434927135) for ffi gem 
 4. Build the site and make it available on a local server
 ```
 bundle exec jekyll serve
